@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1zizzt72wdxegt+RgFjTxU+Ueg6DlpZjmlnjA1xUdia4UA/oj/DXcEBSi1vtLs06vt8UN9MfX5+ed/+DkdONw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vicev\\OneDrive\\Desktop\\ооп\\ООП\\ООП\\ООП.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vicev\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vicev\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vicev\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vicev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

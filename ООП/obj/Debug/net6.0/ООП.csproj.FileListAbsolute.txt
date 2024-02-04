@@ -1,0 +1,14 @@
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\bin\Debug\net6.0\ООП.exe
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\bin\Debug\net6.0\ООП.deps.json
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\bin\Debug\net6.0\ООП.runtimeconfig.json
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\bin\Debug\net6.0\ООП.dll
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\bin\Debug\net6.0\ООП.pdb
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\obj\Debug\net6.0\ООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\obj\Debug\net6.0\ООП.AssemblyInfoInputs.cache
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\obj\Debug\net6.0\ООП.AssemblyInfo.cs
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\obj\Debug\net6.0\ООП.csproj.CoreCompileInputs.cache
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\obj\Debug\net6.0\ООП.dll
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\obj\Debug\net6.0\refint\ООП.dll
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\obj\Debug\net6.0\ООП.pdb
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\obj\Debug\net6.0\ООП.genruntimeconfig.cache
+C:\Users\vicev\OneDrive\Desktop\ооп\ООП\ООП\obj\Debug\net6.0\ref\ООП.dll
